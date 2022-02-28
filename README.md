@@ -8,6 +8,7 @@ I'm currently studying and working to learn the main techniques and tools used i
   - Machine Learning;
   - Distributed Systems;
   - Computing Infrastructures;
+
 <!--
 **GabrieleRivi/GabrieleRivi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
