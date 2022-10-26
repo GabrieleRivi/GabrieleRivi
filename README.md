@@ -1,9 +1,10 @@
 ![Blu e Bianco Architetto Banner di LinkedIn](https://user-images.githubusercontent.com/79969755/155976390-437a5faf-d43b-4648-a765-89886c6ce0fb.png)
 
 ## Hello World! 
-My name is Gabriele Rivi, I'm a student in the field of Data Science and I'm currently enrolled in the first year of a double degree program with EIT, with the first year at Politecnico di Milano in Italy and the second one at Aalto University in Finland!
-I'm currently studying and working to learn the main techniques and tools used in the area of Machine and Deep Learning, as well as Data Science. 
+My name is Gabriele Rivi, I'm a student in the field of Data Science and I'm currently enrolled in the second year of a double degree program with EIT, with the first year at Politecnico di Milano in Italy, and currently at Aalto University in Espoo, Finland!
+I'm studying and working to learn the main techniques and tools used in the area of Machine and Deep Learning, as well as Data Science. 
 In the scope of my studies, with a minor in I&E, I'm also getting to learn the main tools used for strategic and marketing-level analysis, getting a grasp on how business units are created from the ground up, what's important to communicate and which steps are necessary to be made before boarding onto a new activity.
+I grew interested in ML and DL techniques
 
 #### Some of the courses I attended this year:
   - Recommender Systems and personalization;
