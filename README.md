@@ -4,14 +4,16 @@
 My name is Gabriele Rivi, I'm a student in the field of Data Science and I'm currently enrolled in the second year of a double degree program with EIT, with the first year at Politecnico di Milano in Italy, and currently at Aalto University in Espoo, Finland!
 I'm studying and working to learn the main techniques and tools used in the area of Machine and Deep Learning, as well as Data Science. 
 In the scope of my studies, with a minor in I&E, I'm also getting to learn the main tools used for strategic and marketing-level analysis, getting a grasp on how business units are created from the ground up, what's important to communicate and which steps are necessary to be made before boarding onto a new activity.
-I grew interested in ML and DL techniques
+I grew interested in ML and DL techniques, mostly because of all the potential that these fields intrinsically have, with all the possible achievement that can be reached using these kind of technologies and models.
 
-#### Some of the courses I attended this year:
+#### Some of the courses I attended:
   - Recommender Systems and personalization;
   - Artificial Neural Networks and Deep Learning;
   - Machine Learning;
   - Distributed Systems;
-  - Computing Infrastructures;
+  - Reinforcement Learning;
+  - Computer Vision;
+  - Data Mining;
 #### For the I&E minor:
   - Strategy & Marketing;
   - Digital Business Innovation Laboratory; 
@@ -29,6 +31,7 @@ I grew interested in ML and DL techniques
 ## Some hobbies and interests:
   - Amateur Cooking 🍲
   - Crossfit 🏋🏼
+  - Trying to learn how to climb.. 
   - Tennis 🎾
   - Videogames 🎮
   - Movies and TV Series (or better, streaming series) 🎥
